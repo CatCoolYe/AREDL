@@ -26,7 +26,7 @@ const mobile_list_expanded = ref(true)
         <div class="info-text">
           <h3> How to Submit Records</h3>
           <p>
-            Join our <a href="https://discord.gg/aredl">discord server</a>, and use /record submit. You can find more information about submitting records in the #record-submissions channel
+            Join GDPSFH <a href="https://discord.gg/uPr4U7QKwq">discord server</a>, You can find more information about submitting records in the #guides and "CatGuide(REVAMP) #04 "Custom demonlist" (tsl setup)"
           </p>
           <h3>Submission Requirements</h3>
           <p>
