@@ -1,3 +1,12 @@
+# NO FUCKING WAY. THE AREDL V2 IS OUT???????????????????????
+## Use Pages.dev/
+## then fork this whole shi.
+## then use When you build a project like in old version check out "Framework Preset" And instead of "None" Choose "Vue"
+## AND BUILD.
+## (Now currently working for backend to work...)
+
+
+
 # aredl-revamp
 
 This template should help get you started developing with Vue 3 in Vite.
