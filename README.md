@@ -4,7 +4,7 @@
 ## then use When you build a project like in old version check out "Framework Preset" And instead of "None" Choose "Vue"
 ## AND BUILD.
 ## (Now currently working for backend to work...)
-
+# [WORKING RIGHT NOW ON THE WEBSITE](https://aredl2revamp-test.pages.dev/)
 
 
 # aredl-revamp
